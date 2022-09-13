@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashabatin
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in frontend development
 - 📫 Feel free to reach me by email [a.shabatin@gmail.com](mailto:a.shabatin@gmail.com)
 
